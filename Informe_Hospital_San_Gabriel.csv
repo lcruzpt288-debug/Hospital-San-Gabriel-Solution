@@ -1,0 +1,23 @@
+Hospital San Gabriel — Análisis de registros ficticios;;;;;
+Indicadores calculados con fórmulas sobre la hoja Pacientes. Datos académicos 100 % ficticios.;;;;;
+;;;;;
+Indicador;Resultado;Interpretación;;Sexo;Cantidad
+Total de pacientes;20;Número de registros incluidos.;;F;10
+Edad promedio;43,0;Promedio de edad en años.;;M;10
+Temperatura promedio (°C);37,15;Promedio de las temperaturas registradas.;;;
+Pacientes sexo F;10;Registros normalizados como F.;;;
+Pacientes sexo M;10;Registros normalizados como M.;;Estado;Cantidad
+Estado: Pendiente;4;Atenciones aún pendientes.;;Pendiente;4
+Estado: En atención;7;Atenciones en curso.;;En atención;7
+Estado: Finalizada;9;Atenciones finalizadas.;;Finalizada;9
+Saturación mínima registrada (%);91;MIN ignora la celda vacía del registro P016.;;;
+Registros incompletos;1;Un registro no tiene saturación de oxígeno: P016.;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
+;;;;;
